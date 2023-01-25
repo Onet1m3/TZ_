@@ -1,6 +1,6 @@
 # Script for parse
 
-## Create a virtual environment
+## Quick start
 * Create virtual environment `python -m venv env`
 * Activate it
 * Install the necessary dependencies `pip install -r requirements.txt`
